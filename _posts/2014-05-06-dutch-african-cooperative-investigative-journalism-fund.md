@@ -2,7 +2,7 @@
 layout: post
 title: "Dutch-African Cooperative Investigative Journalism Fund"
 date: 2014-05-16 00:00:00
-permalink: /dutch-fund
+permalink: /dutch-african-fund
 ---
 
 **Deadline for applications:** *June 23 2014*

@@ -21,7 +21,7 @@ The knowledge and use of techniques discussed in the course will allow journalis
 
 This path-breaking course additionally assists journalists in structuring an exposé that is convincing to readers and also legally defensible.  Elements of believability, used by legal prosecutors throughout the world to sift truth from fiction, will be laid bare through course content, audio and visual files, among other resources.
 
-Participants will have access to ongoing support from ANCIR specialists, and will be eligible for investigative story grants offered by ANCIR partners.
+Participants will have access to ongoing support from ANCIR specialists, and will be eligible for investigative story grants offered by ANCIR partners. Previously incubated under the Forum for African Investigative Reporters (FAIR), in 2013, for individual journalists, the course is now offered to media houses across the continent.
 
 The course is free of charge to qualifying media, thanks to the kind sponsorship of Free Press Unlimited (FPU), an ANCIR partner.
 

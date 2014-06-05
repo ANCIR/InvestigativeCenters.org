@@ -18,9 +18,6 @@
 
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/font-awesome.min.css">
-        <!--[if IE 7]>
-          <link rel="stylesheet" href="css/font-awesome-ie7.min.css">
-        <![endif]-->
 
         <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,900' rel='stylesheet' type='text/css'>
 
@@ -45,7 +42,7 @@
             border-bottom: 1px solid #cccccc;
           }
           .logos img{
-            max-height: 120px;
+            max-height: 80px;
             max-width: 100%;
             padding: 5px;
             margin: 5px;
@@ -107,21 +104,29 @@
 
         {{ content }}
 
-        <footer class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="logos text-center">
-                <hr/>
-                <h4>Established With Seed Funding From</h4>
-                <a href="http://africannewschallenge.org" target="_blank"><img src="/img/anic.png" alt="" style="max-height: 80px;" /></a>
+        <hr/>
+        <footer class="container" style="padding-bottom:20px;">
+          <div class="row logos">
+            <div class="col-md-4 text-left">
+              <h4>Established With Seed Funding From:</h4>
+              <a href="http://africannewschallenge.org" target="_blank"><img src="/img/anic.png" alt="" style="max-height:65px;" /></a>
+            </div> <!-- /.col-md-4 -->
 
-                <h4 style="margin-bottom: 0;">Being Incubated By</h4>
-                <p>
-                  <a href="http://africanmediainitiative.org/" target="_blank"><img src="/img/ami.png" alt="" /></a>
-                  <a href="http://www.codeforafrica.org/" target="_blank"><img src="/img/c4a-2.png" alt="" /></a>
-                </p>
-              </div> <!-- /.logos -->
-            </div> <!-- /.col-md-12 -->
+            <div class="col-md-4 text-center">
+              <br/>
+              <p><b/>Follow Us On</b></p>
+              <a href="https://www.facebook.com/AfricaInvestigated" target="_blank" class="btn btn-lg btn-danger">
+                <i class="fa fa-lg fa-facebook"></i>
+              </a>
+            </div>
+
+            <div class="col-md-4 text-right">
+              <h4 style="margin-bottom: 0;">Being Incubated By:</h4>
+              <p>
+                <a href="http://africanmediainitiative.org/" target="_blank"><img src="/img/ami.png" alt="" /></a>
+                <a href="http://www.codeforafrica.org/" target="_blank"><img src="/img/c4a-2.png" alt="" /></a>
+              </p>
+            </div>
           </div> <!-- /. row -->
         </footer>
 

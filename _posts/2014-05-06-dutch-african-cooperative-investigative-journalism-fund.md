@@ -17,6 +17,8 @@ The aim of the FPU/ANCIR grant is to facilitate high quality investigative stori
 - To promote in-depth and critical reporting on under covered issues related to Africa with a special focus on government and corporate responsibility
 - To promote top-notch investigative reporting by encouraging exchange between Dutch and African journalists
 
+The successful African grantees will receive, for the duration of the grant period, position as ANCIR non-residential investigative fellow, accessing financial, forensics, cross-examination, legal, technological and other training
+
 **Who can you apply?**
 
 The beneficiaries are Dutch and African journalists who are employed by news organisations or journalists working independently or as freelancers.

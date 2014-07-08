@@ -7,7 +7,7 @@ when: "To Be Confirmed"
 where: 'To Be Confirmed'
 
 addthisevent: #
-registration: #
+registration: https://docs.google.com/forms/d/1lX7BQ1Ix6hyPw5uMIf66-Zn0zv_YHxkAhDB1U21WPjs/viewform?usp=send_form
 ---
 
 ### Course Details:

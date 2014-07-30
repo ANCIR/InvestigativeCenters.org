@@ -7,9 +7,9 @@ permalink: /gold-investigation
 
 **Deadline for applications:** *To Be Announced*
 
-"ANCIR is searching for investigative researchers and writers to assist with a transnational investigation into the gold industry in the Democractic Republic of Congo (DRC). 
+ANCIR is searching for investigative researchers and writers to assist with a transnational investigation into the gold industry in the Democractic Republic of Congo (DRC). 
 
-"Preference will be given to senior investigators who have some experience of the gold industry. You should be able to provide references for your work, and industry credibility.
+Preference will be given to senior investigators who have some experience of the gold industry. You should be able to provide references for your work, and industry credibility.
 
 Applications for the position of Investigative Researcher for ANCIR Probe Into Gold Industry in the Democratic Republic of Congo <a href="https://docs.google.com/forms/d/1lnDs6ILEbJt-W1BT1TvgMiT6fSmoHxo1ZjBlsqqLvWs/viewform?usp=send_form">can be done here</a>.
 

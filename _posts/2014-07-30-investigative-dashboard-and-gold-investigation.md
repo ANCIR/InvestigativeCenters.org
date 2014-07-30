@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Investigative Dashboard and Gold Investigation"
-permalink: /investigative-dashboard
+permalink: /investigative-dashboard-and-gold-investigation
 
 ### The Opportunity:
 Investigative Dashboard is a transnational collaborative effort to help journalists and civil society expose organized crime and corruption around the world. It hosts three core tools: a crowd-sourced database of information and documents on persons of interest and their business connections, a worldwide list of online

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigative-Dashboard-and-Gold-Investigation"
+title: "Investigative-Dashboard"
 date: 2014-07-30 00:00:00
 permalink: /investigative-dashboard
 ---
@@ -16,8 +16,6 @@ Investigative Dashboard is searching for part-time in-country staff in West Afri
 Selected candidates will receive training by Investigative Dashboard staff. Preference will be given to candidates with intimate knowledge of national/public records (such as corporate, land, tax and other registries), wide network of sources and resources and familiarity with investigative media. 
 
 Candidates will be required to provide Investigative Dashboard with a list of databases as part of the application process as well as two samples of work and a resume. 
-
-Applications for the position of Investigative Researcher for ANCIR Probe Into Gold Industry in the Democratic Republic of Congo <a href="https://docs.google.com/forms/d/1lnDs6ILEbJt-W1BT1TvgMiT6fSmoHxo1ZjBlsqqLvWs/viewform?usp=send_form">can be done here</a>.
 
 Applications for Part-Time Research Positions with ANCIR's Investigative Dashboard Africa Team <a href="https://docs.google.com/forms/d/1OsPsVaqslq_Xf5RXJJdpB8y2dtY1t9bQB7tyVz_UhUA/viewform?usp=send_form">can be done here</a>.
 

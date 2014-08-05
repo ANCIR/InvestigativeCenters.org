@@ -1,17 +1,15 @@
 ﻿---
 layout: post
-title: "ANCIR-editors-french-and-english"
+title: "Ancir-Editors"
 date: 2014-08-05 00:00:00
 permalink: /ancir-editors
 ---
 
 **Deadline for applications:** *August 21 2014*
 
-ANCIR is looking for two investigative editors (French & English) to be part of our Investigative/iLab team. 
+ANCIR is looking for two investigative editors ,French and English, to be part of our Investigative/iLab team. 
 
-
-Applications for these two positions <a href="https://docs.google.com/forms/d/17poWszRUcBkG3yzCWiLfvtSfVrkym45z8_Ypi2R-JlU/viewform?usp=send_form">can be done here</a>.
-
+Applications for Part-Time Research Positions with ANCIR's Investigative Dashboard Africa Team <a href="https://docs.google.com/forms/d/17poWszRUcBkG3yzCWiLfvtSfVrkym45z8_Ypi2R-JlU/viewform?usp=send_form">can be done here</a>.
 
 For more information, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)
 

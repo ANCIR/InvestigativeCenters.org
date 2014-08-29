@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Gold-Investigation-Democratic-Republic-of-Congo"
 date: 2014-07-30 00:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Ancir-Editors"
 date: 2014-08-05 00:00:00

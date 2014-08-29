@@ -5,7 +5,7 @@ date: 2014-07-30 00:00:00
 permalink: /investigative-dashboard
 ---
 
-**Deadline for applications:** *September 5 2014*
+**Deadline for applications:** *September 05 2014*
 
 Investigative Dashboard is a transnational collaborative effort to help journalists and civil society expose organized crime and corruption around the world. It hosts three core tools: a crowd-sourced database of information and documents on persons of interest and their business connections, a worldwide list of online databases and business registries, and a research desk where journalists can go for help in sourcing hard to find information.
 

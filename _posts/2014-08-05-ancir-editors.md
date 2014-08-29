@@ -5,7 +5,7 @@ date: 2014-08-05 00:00:00
 permalink: /ancir-editors
 ---
 
-**Deadline for applications:** *September 5 2014*
+**Deadline for applications:** *September 05 2014*
 
 ANCIR is looking for two investigative editors ,French and English, to be part of our Investigative/iLab team. 
 

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Investigative-Dashboard"
 date: 2014-07-30 00:00:00
 permalink: /investigative-dashboard
 ---
 
-**Deadline for applications:** *August 21 2014*
+**Deadline for applications:** *September 5 2014*
 
 Investigative Dashboard is a transnational collaborative effort to help journalists and civil society expose organized crime and corruption around the world. It hosts three core tools: a crowd-sourced database of information and documents on persons of interest and their business connections, a worldwide list of online databases and business registries, and a research desk where journalists can go for help in sourcing hard to find information.
 
@@ -37,7 +37,7 @@ ANCIR is underwritten by the continent’s largest association of media owners a
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <p class="text-center">
-      <a href="http://ate.so/?jxvE8rR" target="_blank" class="btn btn-lg btn-block btn-default">
+      <a href="http://ate.so/?Yru4GzD" target="_blank" class="btn btn-lg btn-block btn-default">
         <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
       </a>
     </p>

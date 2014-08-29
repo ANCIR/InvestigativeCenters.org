@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ancir-Editors"
 date: 2014-08-05 00:00:00
 permalink: /ancir-editors
 ---
 
-**Deadline for applications:** *August 21 2014*
+**Deadline for applications:** *September 5 2014*
 
 ANCIR is looking for two investigative editors ,French and English, to be part of our Investigative/iLab team. 
 
@@ -29,7 +29,7 @@ ANCIR is underwritten by the continent’s largest association of media owners a
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <p class="text-center">
-      <a href="http://ate.so/?QARHyKP" target="_blank" class="btn btn-lg btn-block btn-default">
+      <a href="http://ate.so/?t9Jt6jr" target="_blank" class="btn btn-lg btn-block btn-default">
         <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
       </a>
     </p>

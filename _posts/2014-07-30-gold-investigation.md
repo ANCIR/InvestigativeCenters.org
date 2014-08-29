@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Gold-Investigation-Democratic-Republic-of-Congo"
 date: 2014-07-30 00:00:00
 permalink: /gold-investigation
 ---
 
-**Deadline for applications:** *August 21 2014*
+**Deadline for applications:** September 5 2014*
 
 ANCIR is searching for investigative researchers and writers to assist with a transnational investigation into the gold industry in the Democractic Republic of Congo (DRC). 
 
@@ -32,7 +32,7 @@ ANCIR is underwritten by the continent’s largest association of media owners a
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <p class="text-center">
-      <a href="http://ate.so/?8iBMDR5" target="_blank" class="btn btn-lg btn-block btn-default">
+      <a href="http://ate.so/?JmQNobi" target="_blank" class="btn btn-lg btn-block btn-default">
         <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
       </a>
     </p>

@@ -5,7 +5,7 @@ date: 2014-07-30 00:00:00
 permalink: /gold-investigation
 ---
 
-**Deadline for applications:** September 5 2014*
+**Deadline for applications:** *September 5 2014*
 
 ANCIR is searching for investigative researchers and writers to assist with a transnational investigation into the gold industry in the Democractic Republic of Congo (DRC). 
 

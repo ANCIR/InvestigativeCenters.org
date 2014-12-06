@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Gold Investigation Democratic Republic of Congo"
-date: 2014-07-30 00:00:00
-permalink: /gold-investigation
+title: "Investigation Liberia"
+date: 2014-12-06 00:00:00
+permalink: /liberia-investigation
 ---
 
 **Deadline for applications:** *September 05 2014*
@@ -17,7 +17,7 @@ Applications for the position of Investigative Researcher for ANCIR Probe Into G
 For more information, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)
 
 <br/>
-#### About ANCIR:
+#### About A.N.C.I.R:
 The African Network of Centers for Investigative Reporting is an association of the continent’s best investigative newsrooms, ranging from large traditional media to small specialist units.
 
 ANCIR works to strengthen African investigative journalism by improving the techniques, expertise, the tools used in muckraking newsrooms. This includes providing member newsrooms with the world’s best encryption and semantic analysis technologies, to forensic research support (through the [Investigative Dashboard](http://investigativedashboard.org)), legal services, and seed grants for cross-border collaboration.

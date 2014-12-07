@@ -15,7 +15,7 @@ For more information, please contact [mailto:ksharife@gmail.com](mailto:ksharife
 
 <br/>
 
-<p class="text-center">
+<p>
   <a href="http://ate.so/?t9Jt6jr" target="_blank" class="btn btn-lg btn-default">
     <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
   </a>

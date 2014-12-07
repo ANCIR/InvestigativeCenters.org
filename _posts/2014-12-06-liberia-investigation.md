@@ -13,16 +13,7 @@ Preference will be given to senior investigators who have some experience of the
 
 Applications for the position of Investigative Researcher for ANCIR Probe Into Gold Industry in the Liberian gold industry can be done by emailing Khadija Sharife (ksharife@gmail.com) cc'ing Justin Arenstein (justinarenstein@gmail.com)
 
-For more information, please contact [mailto:ksharife@gmail.com](mailto:ksharife@gmail.com)
-
-<br/>
-#### About A.N.C.I.R:
-The African Network of Centers for Investigative Reporting is an association of the continent’s best investigative newsrooms, ranging from large traditional media to small specialist units.
-
-ANCIR works to strengthen African investigative journalism by improving the techniques, expertise, the tools used in muckraking newsrooms. This includes providing member newsrooms with the world’s best encryption and semantic analysis technologies, to forensic research support (through the [Investigative Dashboard](http://investigativedashboard.org)), legal services, and seed grants for cross-border collaboration.
-
-ANCIR is underwritten by the continent’s largest association of media owners and operators, the [African Media Initiative (AMI)](http://africanmediainitiative.org) and receive technology support from [Code for Africa](http://codeforafrica.org).
-
+For more information, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)
 
 <br/>
 

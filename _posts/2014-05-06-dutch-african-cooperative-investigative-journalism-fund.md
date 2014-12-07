@@ -52,6 +52,9 @@ For more info: [baris@freepressunlimited.org](mailto:baris@freepressunlimited.or
     <i class="glyphicon glyphicon-list-alt"></i> Click here for online registration!
   </a>
 </p>
+
+<br/>
+
 <p class="text-center">
   <a href="http://ate.so/?XR7BX9L" target="_blank" class="btn btn-lg btn-default">
     <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!

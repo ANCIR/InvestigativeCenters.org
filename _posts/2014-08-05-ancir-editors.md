@@ -15,14 +15,10 @@ For more information, please contact [mailto:ksharife@gmail.com](mailto:ksharife
 
 <br/>
 
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <p class="text-center">
-      <a href="http://ate.so/?t9Jt6jr" target="_blank" class="btn btn-lg btn-block btn-default">
-        <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
-      </a>
-    </p>
-  </div>
-</div>
+<p class="text-center">
+  <a href="http://ate.so/?t9Jt6jr" target="_blank" class="btn btn-lg btn-default">
+    <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
+  </a>
+</p>
 
 <br/>

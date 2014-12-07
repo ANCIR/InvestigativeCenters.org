@@ -27,6 +27,8 @@ The course is free of charge to qualifying media, thanks to the kind sponsorship
 
 Interested? Complete the following [application form](https://docs.google.com/forms/d/1A3cpTtoyyaSnCIJdro8tsi6V7RiQtKEBNr2BjGH9UPI/viewform?usp=send_form).
 
+<br/>
+
 <p class="text-center"><a href="https://docs.google.com/forms/d/1A3cpTtoyyaSnCIJdro8tsi6V7RiQtKEBNr2BjGH9UPI/viewform?usp=send_form" target="_blank" class="btn btn-lg btn-danger">Click here for online registration!</a></p>
 
 <br/>

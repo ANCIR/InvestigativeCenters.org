@@ -11,7 +11,7 @@ ANCIR is looking for an investigative editor fluent in French to be part of our 
 
 Applications for these positions [can be done here](https://docs.google.com/forms/d/17poWszRUcBkG3yzCWiLfvtSfVrkym45z8_Ypi2R-JlU/viewform?usp=send_form).
 
-For more information, please contact [mailto:ksharife@gmail.com](mailto:ksharife@gmail.com)
+For more information, please contact [ksharife@gmail.com](mailto:ksharife@gmail.com)
 
 <br/>
 

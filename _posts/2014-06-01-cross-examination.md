@@ -27,15 +27,6 @@ The course is free of charge to qualifying media, thanks to the kind sponsorship
 
 Interested? Complete the following [application form](https://docs.google.com/forms/d/1A3cpTtoyyaSnCIJdro8tsi6V7RiQtKEBNr2BjGH9UPI/viewform?usp=send_form).
 
-### About ANCIR:
-The African Network of Centers for Investigative Reporting is an association of the continent’s best investigative newsrooms, ranging from large traditional media to small specialist units.
-
-ANCIR works to strengthen African investigative journalism by improving the techniques, expertise, the tools used in muckraking newsrooms. This includes providing member newsrooms with the world’s best encryption and semantic analysis technologies, to forensic research support (through the [Investigative Dashboard](http://investigativedashboard.org)), legal services, and seed grants for cross-border collaboration.
-
-ANCIR is underwritten by the continent’s largest association of media owners and operators, the [African Media Initiative (AMI)](http://africanmediainitiative.org) and receive technology support from [Code for Africa](http://codeforafrica.org).
-
-<br/>
-
 <p class="text-center"><a href="https://docs.google.com/forms/d/1A3cpTtoyyaSnCIJdro8tsi6V7RiQtKEBNr2BjGH9UPI/viewform?usp=send_form" target="_blank" class="btn btn-lg btn-danger">Click here for online registration!</a></p>
 
 <br/>

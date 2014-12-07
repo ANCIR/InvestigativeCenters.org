@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ancir-Editors"
+title: "A.N.C.I.R Editors"
 date: 2014-08-05 00:00:00
 permalink: /ancir-editors
 ---
@@ -12,15 +12,6 @@ ANCIR is looking for an investigative editor fluent in French to be part of our 
 Applications for these positions [can be done here](https://docs.google.com/forms/d/17poWszRUcBkG3yzCWiLfvtSfVrkym45z8_Ypi2R-JlU/viewform?usp=send_form).
 
 For more information, please contact [mailto:ksharife@gmail.com](mailto:ksharife@gmail.com)
-
-<br/>
-
-### About ANCIR:
-The African Network of Centers for Investigative Reporting is an association of the continent’s best investigative newsrooms, ranging from large traditional media to small specialist units.
-
-ANCIR works to strengthen African investigative journalism by improving the techniques, expertise, the tools used in muckraking newsrooms. This includes providing member newsrooms with the world’s best encryption and semantic analysis technologies, to forensic research support (through the [Investigative Dashboard](http://investigativedashboard.org)), legal services, and seed grants for cross-border collaboration.
-
-ANCIR is underwritten by the continent’s largest association of media owners and operators, the [African Media Initiative (AMI)](http://africanmediainitiative.org) and receive technology support from [Code for Africa](http://codeforafrica.org).
 
 <br/>
 

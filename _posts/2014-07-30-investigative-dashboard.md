@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigative-Dashboard"
+title: "Investigative Dashboard"
 date: 2014-07-30 00:00:00
 permalink: /investigative-dashboard
 ---
@@ -32,7 +32,5 @@ For more information, please contact [ksharife@gmail.com](mailto:ksharife@gmail.
     </p>
   </div>
 </div>
-
-
 
 <br/>

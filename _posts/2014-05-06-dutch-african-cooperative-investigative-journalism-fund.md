@@ -47,15 +47,13 @@ For more info: [baris@freepressunlimited.org](mailto:baris@freepressunlimited.or
 
 <br/>
 
-<p class="text-center">
-  <a href="https://www.freepressunlimited.org/en/call-investigative-journalism" target="_blank" class="btn btn-lg btn-danger">
+<p>
+  <a href="https://www.freepressunlimited.org/en/call-investigative-journalism" target="_blank" class="btn btn-lg btn-primary">
     <i class="glyphicon glyphicon-list-alt"></i> Click here for online registration!
   </a>
 </p>
 
-<br/>
-
-<p class="text-center">
+<p>
   <a href="http://ate.so/?XR7BX9L" target="_blank" class="btn btn-lg btn-default">
     <i class="glyphicon glyphicon-calendar"></i> Add deadline reminder to calendar!
   </a>

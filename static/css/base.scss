@@ -12,11 +12,12 @@
 }
 
 body {
-    background: #ccc;
+    background: #fff;
 }
 
 #page {
-    padding-top: 40px;
+    padding-top: 2em;
+    border-bottom: 1px solid #ddd;
     background: #fff;
     padding-bottom: 2em;
 }
@@ -30,7 +31,11 @@ hr {
     border-bottom: 1px solid #cccccc;
 }
 
-.logos img{
+.container {
+    max-width: 900px;
+}
+
+.logos img {
     max-height: 80px;
     max-width: 100%;
     padding: 5px;
@@ -46,11 +51,42 @@ hr {
     opacity: 0.6;
 }
 
-#branding {
-    color: #000;
-    font-weight: 900;
-    font-family: 'captured','Titillium Web', sans-serif;
+h4 {
+    clear: both;
 }
+
+.profile {
+    clear: both;
+    padding-bottom: 1em;
+
+    strong {
+        font-weight: normal;
+    }
+
+    .person-image {
+        float: left;
+        max-width: 150px;
+        padding-right: 1em;
+        padding-bottom: 0.5em;
+        padding-top: 0.5em;
+    }
+}
+
+.header {
+    margin-bottom: 1em;
+
+    #branding, p.lead {
+        color: #000;
+        font-weight: 900;
+        font-family: 'captured','Titillium Web', sans-serif;
+    }
+
+    p.lead {
+        font-size: 1.3em;
+        padding-top: 1.1em;
+    }    
+}
+
 
 footer {
     padding-top: 3em;

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="container">
+  
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li class="active">{{ page.title }}</li>
+  </ol>
+
+  <div class="page-header">
+    <h2>{{ page.title }}</h2>
+  </div>
+
+  <div class="row">
+    <div class="col-md-8">
+      {{ content }}
+    </div>
+    <div class="col-md-4">
+      {% include ancir.html %}
+    </div>
+  </div>
+</div>

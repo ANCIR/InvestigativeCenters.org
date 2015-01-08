@@ -12,11 +12,12 @@
 }
 
 .body {
-    background: #fff url('/static/img/bg_diamonds.jpg') repeat fixed center;
+    background: #ccc;
 }
 
 #page {
     padding-top: 40px;
+    background: #fff;
 }
 
 hr {
@@ -48,4 +49,9 @@ hr {
     color: #000;
     font-weight: 900;
     font-family: 'captured','Titillium Web', sans-serif;
+}
+
+footer {
+    padding-top: 3em;
+    padding-bottom: 3em;
 }

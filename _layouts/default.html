@@ -9,25 +9,25 @@
         <title>{{page.title}} - A.N.C.I.R</title>
         <meta name="description" content="ANCIR strengthens African investigative journalism by improving the expertise, sustainability and production capacity in muckraking newsrooms.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/jpg" href="/img/logo.jpg">
+        <link rel="icon" type="image/jpg" href="/static/img/logo.jpg">
 
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link href="//fonts.googleapis.com/css?family=Titillium+Web:400,900" rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/css/bootstrap-theme-journal.min.css">      
+        <link rel="stylesheet" href="/static/css/bootstrap-theme-journal.min.css">      
 
         <style>
           @font-face {
             font-family: 'captured';
-            src: url('/fonts/captured.ttf');
+            src: url('/static/fonts/captured.ttf');
           }
           @font-face {
             font-family: 'damaged';
-            src: url('/fonts/damaged.ttf');
+            src: url('/static/fonts/damaged.ttf');
           }
 
           .body {
-            background: #fff url('/img/bg_diamonds.jpg') repeat fixed center;
+            background: #fff url('/static/img/bg_diamonds.jpg') repeat fixed center;
           }
 
           hr {
@@ -75,7 +75,11 @@
 
             <!-- Logo area -->
             <div class="col-md-7">
-              <p class="pull-left"><a href="/"><img src="/img/logo.jpg" class="img-circle" alt="" style="height: 160px; margin-right:20px;"/></a></p>
+              <p class="pull-left">
+                <a href="/">
+                  <img src="/static/img/logo.jpg" class="img-circle" alt="" style="height: 160px; margin-right:20px;"/>
+                </a>
+              </p>
               <!-- <h1 id="branding" style="font-size: 50px;">A.N.C.I.R.</h1> -->
               <h1 id="branding" style="font-size:80px; margin:0;">A.N.C.I.R.</h1>
               <p class="lead">African Network of Centers<br/>for Investigative Reporting</p>
@@ -109,7 +113,7 @@
           <div class="row logos">
             <div class="col-md-4 text-left">
               <h4>Established With Seed Funding From:</h4>
-              <a href="http://africannewschallenge.org" target="_blank"><img src="/img/anic.png" alt="" style="max-height:65px;" /></a>
+              <a href="http://africannewschallenge.org" target="_blank"><img src="/static/img/anic.png" alt="" style="max-height:65px;" /></a>
             </div> <!-- /.col-md-4 -->
 
             <div class="col-md-4 text-center">
@@ -123,7 +127,7 @@
             <div class="col-md-4 text-right">
               <h4 style="margin-bottom: 0;">Technical partners:</h4>
               <p>
-                <a href="http://www.codeforafrica.org/" target="_blank"><img src="/img/c4a-2.png" alt="" /></a>
+                <a href="http://www.codeforafrica.org/" target="_blank"><img src="/static/img/c4a-2.png" alt="" /></a>
               </p>
             </div>
           </div> <!-- /. row -->
@@ -131,11 +135,9 @@
 
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="/js/plugins.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-        <script src="/js/main.js"></script>
+        <script src="/static/js/plugins.js"></script>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
             function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

@@ -11,13 +11,14 @@
     src: url('/static/fonts/damaged.ttf');
 }
 
-.body {
+body {
     background: #ccc;
 }
 
 #page {
     padding-top: 40px;
     background: #fff;
+    padding-bottom: 2em;
 }
 
 hr {

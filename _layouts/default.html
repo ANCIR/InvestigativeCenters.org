@@ -14,8 +14,8 @@
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link href="//fonts.googleapis.com/css?family=Titillium+Web:400,900" rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-        <!--link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/journal/bootstrap.min.css"-->
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/readable/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/journal/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.1/sandstone/bootstrap.min.css">
         
         <link rel="stylesheet" href="/static/css/base.css">
     </head>
@@ -23,44 +23,45 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+        <div id="page">
+          <div class="container">
+            <div class="row">
 
-        <div id="page" class="container">
-          <div class="row">
+              <!-- Logo area -->
+              <div class="col-md-7">
+                <p class="pull-left">
+                  <a href="/">
+                    <img src="/static/img/logo.jpg" class="img-circle" alt="" style="height: 160px; margin-right:20px;"/>
+                  </a>
+                </p>
+                <!-- <h1 id="branding" style="font-size: 50px;">A.N.C.I.R.</h1> -->
+                <h1 id="branding" style="font-size:80px; margin:0;">A.N.C.I.R.</h1>
+                <p class="lead">African Network of Centers<br/>for Investigative Reporting</p>
+              </div> <!-- /.col-md-8 -->
 
-            <!-- Logo area -->
-            <div class="col-md-7">
-              <p class="pull-left">
-                <a href="/">
-                  <img src="/static/img/logo.jpg" class="img-circle" alt="" style="height: 160px; margin-right:20px;"/>
-                </a>
-              </p>
-              <!-- <h1 id="branding" style="font-size: 50px;">A.N.C.I.R.</h1> -->
-              <h1 id="branding" style="font-size:80px; margin:0;">A.N.C.I.R.</h1>
-              <p class="lead">African Network of Centers<br/>for Investigative Reporting</p>
-            </div> <!-- /.col-md-8 -->
+              <!-- Newsletter area -->
+              <div class="col-md-4 col-md-offset-1 text-center">
+                <div class="well">
+                  <p>The full ANCIR website is still in development. Signup to be kept informed about updates and other news.</p>
+                  <!-- Begin MailChimp Signup Form -->
+                  <div id="mc_embed_signup">
+                    <form action="http://codeforafrica.us6.list-manage1.com/subscribe/post?u=65e5825507b3cec760f272e79&amp;id=786f5d20f3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" role="form" novalidate>
+                      <div class="form-group">
+                          <label class="sr-only" for="mce-EMAIL">Email address</label>
+                          <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address" required>
+                      </div>
+                      <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Submit</button>
+                    </form>
+                  </div>
+                </div> <!-- /.well -->
+              </div> <!-- /.col-md-4 -->
 
-            <!-- Newsletter area -->
-            <div class="col-md-4 col-md-offset-1 text-center">
-              <div class="well">
-                <p>The full ANCIR website is still in development. Signup to be kept informed about updates and other news.</p>
-                <!-- Begin MailChimp Signup Form -->
-                <div id="mc_embed_signup">
-                  <form action="http://codeforafrica.us6.list-manage1.com/subscribe/post?u=65e5825507b3cec760f272e79&amp;id=786f5d20f3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" role="form" novalidate>
-                    <div class="form-group">
-                        <label class="sr-only" for="mce-EMAIL">Email address</label>
-                        <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address" required>
-                    </div>
-                    <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Submit</button>
-                  </form>
-                </div>
-              </div> <!-- /.well -->
-            </div> <!-- /.col-md-4 -->
+            </div> <!-- /.row -->
 
-          </div> <!-- /.row -->
+          </div><!-- /.container -->
 
-        </div><!-- /.container -->
-
-        {{ content }}
+          {{ content }}
+        </div>
 
         <footer class="container">
           <div class="row logos">

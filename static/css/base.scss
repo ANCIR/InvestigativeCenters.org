@@ -1,0 +1,51 @@
+---
+---
+
+@font-face {
+    font-family: 'captured';
+    src: url('/static/fonts/captured.ttf');
+}
+
+@font-face {
+    font-family: 'damaged';
+    src: url('/static/fonts/damaged.ttf');
+}
+
+.body {
+    background: #fff url('/static/img/bg_diamonds.jpg') repeat fixed center;
+}
+
+#page {
+    padding-top: 40px;
+}
+
+hr {
+    border-top: 1px solid #cccccc;
+    margin: 30px 0;
+}
+
+.page-header {
+    border-bottom: 1px solid #cccccc;
+}
+
+.logos img{
+    max-height: 80px;
+    max-width: 100%;
+    padding: 5px;
+    margin: 5px;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.logos a:hover img {
+    opacity: 0.6;
+}
+
+#branding {
+    color: #000;
+    font-weight: 900;
+    font-family: 'captured','Titillium Web', sans-serif;
+}

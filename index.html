@@ -94,12 +94,19 @@ title: Home
     </div>
     <div class="col-md-4">
       <div class="well">
-        <h4>Latest Posts &amp; Events from ANCIR</h4>
+        <h4>Latest Posts &amp; Events</h4>
         <p>Check out what we are and have been up to:</p>
         <ul>
           {% for post in site.posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
+        </ul>
+        <h4>Our investigative services</h4>
+        <p>We support African and international news
+        media in their investigative reporting:</p>
+        <ul>
+          <li><a href="/ilab">iLab Services</a></li>
+          <li><a href="/id">Investigative Dashboard</a></li>
         </ul>
       </div>
     </div>

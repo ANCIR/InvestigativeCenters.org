@@ -12,6 +12,6 @@ Each grant is capped at **$1,000**.
 
 Applicants must have a letter of confirmation from a media house, pre-investigations and strong investigative story samples (English or French).
 
-ANCIR's grant is accompanied by our iLab team's multi-language editors, data, financial, tech and other experts, to help nurture the development of the story and the journalist.
+ANCIR's grant is accompanied by our [iLab](/ilab) team's multi-language editors, data, financial, tech and other experts, to help nurture the development of the story and the journalist.
 
 To apply, please email [ksharife@gmail.com](mailto:ksharife@gmail.com) and [esther@codeforafrica.org](mailto:esther@codeforafrica.org).

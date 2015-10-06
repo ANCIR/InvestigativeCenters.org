@@ -4,3 +4,58 @@ $ancir-color-red: #f04a20;
 $ancir-color-gray-light: #626262;
 $ancir-color-gray-dark: #262626;
 
+body {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .btn {
+  font-family: 'Lora', serif;
+}
+
+footer {
+
+  .links {
+    background: #000000 url("/static/img/bg/footer.png") no-repeat bottom center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #ffffff;
+
+    a {
+      color: #ffffff;
+      &:hover {
+        color: $ancir-color-red;
+      }
+      .fa-stack {
+        .fa-inverse {
+          color: #000000;
+        }
+      }
+    }
+
+    .col-sm-3 {
+      border-right: 1px solid rgba(255,255,255,0.5);
+      &:last-child {
+        border-right: 0;
+      }
+    }
+  }
+
+  .copyright {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+
+.btn {
+  border-radius: 0;
+}
+
+.btn-inverse {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  &:hover {
+    border-color: $ancir-color-red;
+  }
+}

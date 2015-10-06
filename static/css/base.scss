@@ -1,3 +1,50 @@
 ---
 ---
 @import 'bootstrap';
+
+@import 'ancir';
+
+.navbar {
+
+  font-family: 'Lora', serif;
+  font-weight: bold;
+
+  &.navbar-inverse {
+    background-color: $ancir-color-gray-dark;
+
+    .navbar-brand {
+      font-style: italic;
+      color: #ffffff;
+      span {
+        color: $ancir-color-red;
+      }
+    }
+
+    .fa-stack {
+      .fa-circle {
+        color: $ancir-color-gray-light;
+      }
+      .fa-inverse {
+        color: $ancir-color-gray-dark;
+      }
+
+      &:hover {
+        .fa-circle {
+          color: #ffffff;
+        }
+      }
+    }
+  }
+}
+
+.input-group-inverse {
+  border: 2px solid #ffffff;
+  input, .btn {
+    background-color: transparent;
+    color: #ffffff;
+    border-color: transparent;
+  }
+
+}
+
+

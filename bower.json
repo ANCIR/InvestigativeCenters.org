@@ -1,0 +1,37 @@
+{
+  "name": "InvestigativeCenters.org",
+  "version": "1.0.0",
+  "homepage": "http://investigativecentres.org/",
+  "authors": [
+    "David Lemayian <david@codeforafrica.org>"
+  ],
+  "description": "The ANCIR website.",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "investigative",
+    "journalism",
+    "website",
+    "ancir",
+    "africa",
+    "centres",
+    "centers",
+    "journalists",
+    "investigate"
+  ],
+  "license": "GPL v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap-sass": "~3.3.5",
+    "bootstrap": "~3.3.5"
+  }
+}

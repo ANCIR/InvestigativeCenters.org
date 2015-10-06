@@ -2,3 +2,12 @@ name: ANCIR
 markdown: redcarpet
 
 encoding: utf-8
+
+exclude:
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - test
+  - tests

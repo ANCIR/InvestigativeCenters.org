@@ -53,6 +53,13 @@ footer {
   .copyright {
     padding-top: 20px;
     padding-bottom: 20px;
+    a {
+      color: #000000;
+      font-weight: bold;
+      &.cfafrica {
+        color: $ancir-color-red;
+      }
+    }
   }
 }
 

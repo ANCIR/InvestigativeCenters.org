@@ -59,6 +59,7 @@
 .showcase {
   color: #000000;
   background: #000 url("/static/img/bg/showcase-extractives.png") no-repeat top center;
+
   h1, h2, h3, h4 {
     font-style: italic;
     font-weight: bold;
@@ -67,6 +68,19 @@
   }
   h1 {
     font-size: 65px;
+  }
+
+  .showcase-tabs {
+    position: absolute;
+    top: 96px;
+    right: 431px;
+    a {
+      font-family: 'Lora', serif;
+      font-weight: bold;
+      font-style: italic;
+      font-size: 18px;
+      color: #ffffff;
+    }
   }
 }
 

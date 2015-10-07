@@ -124,3 +124,7 @@ header {
 .text-cream {
   color: $ancir-color-cream;
 }
+
+.well, .breadcrumb {
+  border-radius: 0;
+}

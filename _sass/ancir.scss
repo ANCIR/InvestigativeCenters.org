@@ -6,9 +6,12 @@ $ancir-color-red-alt: #e82324;
 $ancir-color-gray-light: #626262;
 $ancir-color-gray-dark: #262626;
 
+$ancir-color-cream: #f8d68b;
+
 body {
   font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   word-wrap: break-word;
+  padding-top: 59px;
 }
 
 h1, h2, h3, h4, h5, h6, .btn {
@@ -100,4 +103,17 @@ header {
     background-color: #ffffff;
     color: #000000 !important;
   }
+}
+
+.btn-cream {
+  border-color: $ancir-color-cream;
+  color: $ancir-color-cream;
+  &:hover {
+    border-color: $ancir-color-cream;
+    background-color: $ancir-color-cream;
+  }
+}
+
+.text-cream {
+  color: $ancir-color-cream;
 }

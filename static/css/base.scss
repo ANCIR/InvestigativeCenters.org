@@ -56,6 +56,20 @@
 }
 
 
+.showcase {
+  color: #000000;
+  background: #000 url("/static/img/bg/showcase-extractives.png") no-repeat top center;
+  h1, h2, h3, h4 {
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  h1 {
+    font-size: 65px;
+  }
+}
+
 
 .afrileaks-banner {
   background: #ffff00 url("/static/img/bg/afrileaks-banner.png") no-repeat left center;

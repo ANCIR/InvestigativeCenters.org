@@ -55,8 +55,7 @@
 
 .showcase {
   color: #000000;
-  background: #000 url("/static/img/bg/showcase-extractives.png") no-repeat top center;
-
+  min-height: 410px;
   padding-bottom: 20px;
 
   h1, h2, h3, h4 {
@@ -72,18 +71,37 @@
     font-size: 16px;
   }
 
-  .showcase-tabs {
-    position: absolute;
-    top: 96px;
-    right: 431px;
-    a {
-      font-family: 'Lora', serif;
-      font-weight: bold;
-      font-style: italic;
-      font-size: 18px;
-      color: #ffffff;
+  .showcase-content {
+    .carousel-caption {
+      padding-left: 640px;
+      padding-right: 10px;
+      width: 100%;
+      left: 0;
+      right: 0;
+      text-align: left;
+      top: 50px;
+      color: #000000;
     }
   }
+
+  .showcase-map {
+    position: absolute;
+    top: 59px;
+    .showcase-tabs {
+      position: relative;
+      top: -300px;
+      left: 135px;
+      display: inline-block;
+      a {
+        font-family: 'Lora', serif;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 18px;
+        color: #ffffff;
+      }
+    }
+  }
+
 }
 
 

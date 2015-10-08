@@ -1,94 +1,126 @@
 ---
 ---
+@import 'bootstrap';
 
-@font-face {
-    font-family: 'captured';
-    src: url('/static/fonts/captured.ttf');
+@import 'ancir';
+
+.navbar {
+
+  font-family: 'Lora', serif;
+  font-weight: bold;
+
+  &.navbar-inverse {
+    background-color: $ancir-color-gray-dark;
+
+    .navbar-brand {
+      font-style: italic;
+      color: #ffffff;
+      span {
+        color: $ancir-color-red;
+      }
+    }
+
+    .fa-stack {
+      .fa-circle {
+        color: $ancir-color-gray-light;
+      }
+      .fa-inverse {
+        color: $ancir-color-gray-dark;
+      }
+
+      &:hover {
+        .fa-circle {
+          color: #ffffff;
+        }
+      }
+    }
+  }
 }
 
-@font-face {
-    font-family: 'damaged';
-    src: url('/static/fonts/damaged.ttf');
+.input-group-inverse {
+  border: 2px solid #ffffff;
+  input, .btn {
+    background-color: transparent;
+    color: #ffffff;
+    border-color: transparent;
+  }
 }
 
-body {
-    background: #fff;
+.row-bordered {
+  div {
+    border-right: 1px solid rgba(0,0,0,0.1);
+    &:last-child{
+      border-right: 0;
+    }
+  }
 }
 
-#page {
-    padding-top: 2em;
-    border-bottom: 1px solid #ddd;
-    background: #fff;
-    padding-bottom: 2em;
+
+.showcase {
+  color: #000000;
+  background: #000 url("/static/img/bg/showcase-extractives.png") no-repeat top center;
+
+  h1, h2, h3, h4 {
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  h1 {
+    font-size: 65px;
+  }
+
+  .showcase-tabs {
+    position: absolute;
+    top: 96px;
+    right: 431px;
+    a {
+      font-family: 'Lora', serif;
+      font-weight: bold;
+      font-style: italic;
+      font-size: 18px;
+      color: #ffffff;
+    }
+  }
 }
 
-hr {
-    border-top: 1px solid #cccccc;
-    margin: 30px 0;
+
+.afrileaks-banner {
+  background: #ffff00 url("/static/img/bg/afrileaks-banner.png") no-repeat left center;
+  background-size: cover;
+  padding: 30px;
+  h2 {
+    font-style: italic;
+    margin: 0;
+    a {
+      color: #000000;
+      text-decoration: underline;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
 }
 
-.page-header {
-    border-bottom: 1px solid #cccccc;
+.home-help-investigate {
+
+  #carousel-investigations, .home-graphics {
+    border-top: 1px solid #000000;
+    img {
+      width: 100%;
+    }
+  }
+
 }
 
-.container {
-    max-width: 900px;
-}
-
-.logos img {
-    max-height: 80px;
-    max-width: 100%;
-    padding: 5px;
-    margin: 5px;
-    -webkit-transition: opacity 0.3s ease-in-out;
-    -moz-transition: opacity 0.3s ease-in-out;
-    -o-transition: opacity 0.3s ease-in-out;
-    -ms-transition: opacity 0.3s ease-in-out;
-    transition: opacity 0.3s ease-in-out;
-}
-
-.logos a:hover img {
-    opacity: 0.6;
-}
-
-h4 {
-    clear: both;
+.page {
+  padding-bottom: 40px;
 }
 
 .profile {
-    clear: both;
-    padding-bottom: 1em;
-
-    strong {
-        font-weight: normal;
-    }
-
-    .person-image {
-        float: left;
-        max-width: 150px;
-        padding-right: 1em;
-        padding-bottom: 0.5em;
-        padding-top: 0.5em;
-    }
-}
-
-.header {
-    margin-bottom: 1em;
-
-    #branding, p.lead {
-        color: #000;
-        font-weight: 900;
-        font-family: 'captured','Titillium Web', sans-serif;
-    }
-
-    p.lead {
-        font-size: 1.3em;
-        padding-top: 1.1em;
-    }    
-}
-
-
-footer {
-    padding-top: 3em;
-    padding-bottom: 3em;
+  .person-image {
+    width: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
 }

@@ -1,5 +1,5 @@
 name: ANCIR
-markdown: redcarpet
+markdown: kramdown
 
 encoding: utf-8
 

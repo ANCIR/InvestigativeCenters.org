@@ -1,6 +1,9 @@
 name: ANCIR
 markdown: kramdown
 
+url: https://investigativecenters.org   # with the https protocol
+enforce_ssl: investigativecenters.org   # without any protocol
+
 encoding: utf-8
 
 exclude:

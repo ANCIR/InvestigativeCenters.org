@@ -143,10 +143,12 @@
           ANCIR is not responsible for the content of external sites |
           <a href="#">Privacy Policy</a> |
           <a href="#">PAIA Manual</a> |
-          <a href="#">Terms of Use</a>
+          <a href="#">Terms of Use</a> |
+          <em>info @ investigativecenters.org</em>
         </p>
       </div>
       <div class="col-sm-3 text-right">
+        <p>This domain (investigativecenters.org) is owned by our non-profit Civic Media Foundation and we use it for our Nonprofits Workspace.</p>
         <p>ANCIR is being incubated by <a href="http://www.codeforafrica.org" target="_blank" class="cfafrica">Code for Africa</a></p>
       </div>
     </div>
@@ -159,23 +161,14 @@
 <script src="/static/js/bootstrap.min.js"></script>
 <script src="/static/js/plugins.js"></script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK82PQVLC8"></script>
 <script>
-  (function (b, o, i, l, e, r) {
-    b.GoogleAnalyticsObject = l;
-    b[l] || (b[l] =
-        function () {
-          (b[l].q = b[l].q || []).push(arguments)
-        });
-    b[l].l = +new Date;
-    e = o.createElement(i);
-    r = o.getElementsByTagName(i)[0];
-    e.src = '//www.google-analytics.com/analytics.js';
-    r.parentNode.insertBefore(e, r)
-  }(window, document, 'script', 'ga'));
-  ga('create', 'UA-63787251-4', 'auto');
-  ga('create', 'UA-44795600-1', 'auto', 'cfafricaTracker');
-  ga('send', 'pageview');
-  ga('cfafricaTracker.send', 'pageview');
-</script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK82PQVLC8');
+</script>>
 </body>
 </html>
